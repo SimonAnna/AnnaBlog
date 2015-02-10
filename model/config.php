@@ -1,4 +1,7 @@
 <?php
+     
+    $path = "/AnnaBlog/";
+    
     $host = "localhost";
     $username = "root";
     $password = "root";

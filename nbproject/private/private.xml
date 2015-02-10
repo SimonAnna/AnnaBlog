@@ -4,7 +4,12 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
             <file>file:/C:/xampp/htdocs/AnnaBlog/controller/create-db.php</file>
+            <file>file:/C:/xampp/htdocs/AnnaBlog/view/navigation.php</file>
+            <file>file:/C:/xampp/htdocs/AnnaBlog/model/config.php</file>
             <file>file:/C:/xampp/htdocs/AnnaBlog/index.php</file>
+            <file>file:/C:/xampp/htdocs/AnnaBlog/post.php</file>
+            <file>file:/C:/xampp/htdocs/AnnaBlog/view/header.php</file>
+            <file>file:/C:/xampp/htdocs/AnnaBlog/view/footer.php</file>
             <file>file:/C:/xampp/htdocs/AnnaBlog/model/database.php</file>
         </group>
     </open-files>
