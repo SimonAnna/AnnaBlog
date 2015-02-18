@@ -1,4 +1,5 @@
 <?php
+
 require_once(__DIR__ . "/../model/config.php");
 
 $connection = new mysqli($host, $username, $password, $database);
@@ -11,11 +12,10 @@ echo "<p>Post: $post</p>";
 
 $query = $connection->query("INSERT INTO posts SET title = '$title', post = '$post'");
 
-if($query){
+if ($query) {
     echo "<p>Succesfuully inserted post: $title</p>";
+} else {
+    echo "<p>$connection->error</p>";
 }
-else{
-       echo "<p>$connection->error</p>";
-   }
 
 $connection->close();
