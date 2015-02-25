@@ -1,3 +1,4 @@
+<!--this controls the creation of the user, it records the email,password,username,and salt-->
 <?php
   require_once(__DIR__ . "/../model/config.php");
   
@@ -11,7 +12,7 @@
   
   echo $salt;
   
-  $hashedpassword = crypt($passwoord, $salt);
+  $hashedpassword = crypt($password, $salt);
   
   $query = $_SESSION["connection"]->query("INSERT INTO users SET "
           . "email = '$email',"
