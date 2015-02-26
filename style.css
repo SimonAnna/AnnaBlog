@@ -1,0 +1,24 @@
+.design {
+    background-image: url('http://fc07.deviantart.net/fs42/f/2009/145/4/1/41c4ca9ab68a3856eceda593468300b7.jpg');
+    background-size: cover;
+   text-align:center;
+color: darkred;
+border-style:groove;
+border-color:black;
+border-width: 5px;
+
+
+}
+
+.body {
+    background-image: url('http://fineartamerica.com/images-medium/red-rose-with-black-and-white-background-michael-henderson.jpg');
+    background-size: cover;
+    margin: 0px;
+
+
+
+}
+
+
+
+

@@ -1,6 +1,13 @@
+<html class="body">
+<head>
+    <title>Anna blog :3</title>
+    <link type="text/css" rel="stylesheet" href="style.css">
+</head>
+<div class="design">
 <?php
 
     require_once(__DIR__ . "/../model/config.php");
+    
     
     $query = "SELECT * FROM posts";
     $result = $_SESSION["connection"]->query($query);
@@ -15,4 +22,7 @@
             echo "</div>";
         }
     }
-            
+    ?>
+      
+</div>      
+</html>

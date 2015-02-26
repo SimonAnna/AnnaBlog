@@ -3,10 +3,14 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
+            <file>file:/C:/xampp/htdocs/AnnaBlog/view/navigation.php</file>
+            <file>file:/C:/xampp/htdocs/AnnaBlog/style.css</file>
+            <file>file:/C:/xampp/htdocs/AnnaBlog/controller/read-posts.php</file>
             <file>file:/C:/xampp/htdocs/AnnaBlog/index.php</file>
-            <file>file:/C:/xampp/htdocs/AnnaBlog/view/register-form.php</file>
-            <file>file:/C:/xampp/htdocs/AnnaBlog/view/login-form.php</file>
-            <file>file:/C:/xampp/htdocs/AnnaBlog/controller/login-user.php</file>
+            <file>file:/C:/xampp/htdocs/AnnaBlog/login.php</file>
+            <file>file:/C:/xampp/htdocs/AnnaBlog/post.php</file>
+            <file>file:/C:/xampp/htdocs/AnnaBlog/register.php</file>
+            <file>file:/C:/xampp/htdocs/AnnaBlog/controller/logout-user.php</file>
         </group>
     </open-files>
 </project-private>

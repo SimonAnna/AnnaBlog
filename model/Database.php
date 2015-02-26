@@ -30,7 +30,7 @@ class Database {
                 echo "<p>yay a database was made: " . $database . "</p>";
             }
         } else {
-            echo "<p>database already exists</p>";
+            echo "<p>database already exists </p>";
         }
     }
 
