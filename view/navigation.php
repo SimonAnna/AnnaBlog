@@ -1,3 +1,4 @@
+<!--this controlls navigation-->
 <head>
     <title>Anna blog :3</title>
     <link type="text/css" rel="stylesheet" href="style.css">

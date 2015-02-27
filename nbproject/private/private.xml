@@ -6,11 +6,8 @@
             <file>file:/C:/xampp/htdocs/AnnaBlog/view/navigation.php</file>
             <file>file:/C:/xampp/htdocs/AnnaBlog/style.css</file>
             <file>file:/C:/xampp/htdocs/AnnaBlog/controller/read-posts.php</file>
-            <file>file:/C:/xampp/htdocs/AnnaBlog/index.php</file>
-            <file>file:/C:/xampp/htdocs/AnnaBlog/login.php</file>
             <file>file:/C:/xampp/htdocs/AnnaBlog/post.php</file>
-            <file>file:/C:/xampp/htdocs/AnnaBlog/register.php</file>
-            <file>file:/C:/xampp/htdocs/AnnaBlog/controller/logout-user.php</file>
+            <file>file:/C:/xampp/htdocs/AnnaBlog/controller/login-user.php</file>
         </group>
     </open-files>
 </project-private>
